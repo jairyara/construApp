@@ -1,0 +1,188 @@
+[
+  {
+    "project_id": 1,
+    "budget": [
+      {
+        "id": 1,
+        "category": "Cimentación",
+        "planned_cost": 20000000000,
+        "actual_cost": 18000000000,
+        "deviation": -2000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 2,
+        "category": "Estructura metálica",
+        "planned_cost": 35000000000,
+        "actual_cost": 500000000,
+        "deviation": -34500000000,
+        "status": "En curso"
+      },
+      {
+        "id": 3,
+        "category": "Instalaciones eléctricas",
+        "planned_cost": 15000000000,
+        "actual_cost": 10000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 4,
+        "category": "Paneles solares",
+        "planned_cost": 50000000000,
+        "actual_cost": 20000000000,
+        "deviation": -30000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 5,
+        "category": "Cubierta",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 6,
+        "category": "Acabados",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 7,
+        "category": "Obra civil",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 8,
+        "category": "Equipamiento",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 9,
+        "category": "Urbanización",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 10,
+        "category": "Licencias y permisos",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 11,
+        "category": "Estudios y proyectos",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 12,
+        "category": "Gestión de residuos",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      }
+    ]
+  },
+  {
+    "project_id": 2,
+    "budget": [
+      {
+        "id": 1,
+        "category": "Paneles solares",
+        "planned_cost": 50000000000,
+        "actual_cost": 20000000000,
+        "deviation": -30000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 2,
+        "category": "Instalaciones eléctricas",
+        "planned_cost": 15000000000,
+        "actual_cost": 10000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 3,
+        "category": "Cubierta",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 4,
+        "category": "Acabados",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 5,
+        "category": "Obra civil",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 6,
+        "category": "Equipamiento",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 7,
+        "category": "Urbanización",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 8,
+        "category": "Licencias y permisos",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 9,
+        "category": "Estudios y proyectos",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      },
+      {
+        "id": 10,
+        "category": "Gestión de residuos",
+        "planned_cost": 10000000000,
+        "actual_cost": 5000000000,
+        "deviation": -5000000000,
+        "status": "En curso"
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "role": "Coordinador de proyecto",
+    "permissions": ["manage_projects", "view_all_projects"],
+    "avatar": "/ingeniero.webp"
+  },
+  {
+    "id": 2,
+    "name": "Ana Gómez",
+    "email": "ana.gomez@example.com",
+    "role": "Residente de obra",
+    "permissions": ["view_project", "update_status"],
+    "avatar": "/ingeniera.webp"
+  }
+]

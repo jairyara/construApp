@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Centro Comercial XYZ",
+    "location": "Bogotá, Colombia",
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "En progreso"
+  },
+  {
+    "id": 2,
+    "name": "Torre Residencial ABC",
+    "location": "Medellín, Colombia",
+    "start_date": "2024-02-01",
+    "end_date": "2024-11-30",
+    "status": "En progreso"
+  }
+]

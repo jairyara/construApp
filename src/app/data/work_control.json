@@ -1,0 +1,148 @@
+[
+  {
+    "Centro Comercial XYZ": [
+      {
+        "id": 1,
+        "project_id": 1,
+        "activity": "Excavación de terreno",
+        "responsible": "Juan Pérez",
+        "start_date": "2024-01-01",
+        "end_date": "2024-01-14",
+        "progress": 100,
+        "overall_status": "Finalizado",
+        "materials_used": [
+          {
+            "material": "Pala",
+            "quantity": "2 unidades"
+          },
+          {
+            "material": "Martillo",
+            "quantity": "1 unidad"
+          }
+        ],
+        "issues": [],
+        "evidences": []
+      },
+      {
+        "id": 2,
+        "project_id": 1,
+        "activity": "Diseño de planos",
+        "responsible": "María López",
+        "start_date": "2023-12-01",
+        "end_date": "2024-01-10",
+        "progress": 100,
+        "overall_status": "Finalizado",
+        "materials_used": [],
+        "issues": [],
+        "evidences": []
+      },
+      {
+        "id": 3,
+        "project_id": 1,
+        "activity": "Colocación de cimentación",
+        "responsible": "Ana Gómez",
+        "start_date": "2024-01-15",
+        "end_date": "2024-02-15",
+        "progress": 75,
+        "overall_status": "En proceso",
+        "materials_used": [
+          {
+            "material": "Concreto",
+            "quantity": "20 m³"
+          },
+          {
+            "material": "Varilla",
+            "quantity": "500 kg"
+          }
+        ],
+        "issues": [
+          {
+            "description": "Retraso por clima",
+            "date_reported": "2024-01-20",
+            "resolved": true
+          }
+        ],
+        "evidences": [
+          {
+            "description": "Fotos de la cimentación",
+            "url": "/casa.webp"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "project_id": 1,
+        "activity": "Estructura metálica",
+        "responsible": "Carlos Ruiz",
+        "start_date": "2024-02-16",
+        "end_date": "2024-03-30",
+        "progress": 20,
+        "overall_status": "Atrasado",
+        "materials_used": [],
+        "issues": [],
+        "evidences": []
+      }
+    ],
+    "Torre residencial ABC" : [
+      {
+        "id": 5,
+        "project_id": 2,
+        "activity": "Instalación de paneles solares",
+        "responsible": "Pedro Martínez",
+        "start_date": "2024-03-01",
+        "end_date": "2024-03-30",
+        "progress": 40,
+        "overall_status": "En proceso",
+        "materials_used": [
+          {
+            "material": "Panel solar",
+            "quantity": "30 unidades"
+          },
+          {
+            "material": "Cableado eléctrico",
+            "quantity": "100 m"
+          }
+        ],
+        "issues": [
+          {
+            "description": "Demora en la entrega de paneles",
+            "date_reported": "2024-03-10",
+            "resolved": false
+          }
+        ],
+        "evidences": [
+          {
+            "description": "Fotos de los paneles solares",
+            "url": "/paneles.webp"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "project_id": 2,
+        "activity": "Pruebas de funcionamiento",
+        "responsible": "Laura Sánchez",
+        "start_date": "2024-04-01",
+        "end_date": "2024-04-15",
+        "progress": 0,
+        "overall_status": "No iniciado",
+        "materials_used": [],
+        "issues": [],
+        "evidences": []
+      },
+      {
+        "id": 7,
+        "project_id": 2,
+        "activity": "Entrega de proyecto",
+        "responsible": "Laura Sánchez",
+        "start_date": "2024-04-16",
+        "end_date": "2024-04-30",
+        "progress": 0,
+        "overall_status": "No iniciado",
+        "materials_used": [],
+        "issues": [],
+        "evidences": []
+      }
+    ]
+  }
+]

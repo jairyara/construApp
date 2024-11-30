@@ -1,0 +1,35 @@
+[
+  {
+    "project_id": 1,
+    "project_name": "Centro Comercial XYZ",
+    "organization": [
+      {
+        "user_id": 1,
+        "name": "Juan Pérez",
+        "role": "Coordinador de proyecto",
+        "permissions": ["manage_projects", "view_all_projects"],
+        "avatar": "/ingeniero.webp"
+      },
+      {
+        "user_id": 2,
+        "name": "Ana Gómez",
+        "role": "Residente de obra",
+        "permissions": ["view_project", "update_status"],
+        "avatar": "ingeniera.webp"
+      }
+    ]
+  },
+  {
+    "project_id": 2,
+    "project_name": "Torre Residencial ABC",
+    "organization": [
+      {
+        "user_id": 1,
+        "name": "Juan Pérez",
+        "role": "Coordinador de proyecto",
+        "permissions": ["manage_projects", "view_all_projects"],
+        "avatar": "ingeniero.webp"
+      }
+    ]
+  }
+]

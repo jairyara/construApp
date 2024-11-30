@@ -1,0 +1,164 @@
+[
+  {
+    "project_id": 1,
+    "schedule": [
+      {
+        "task_id": 1,
+        "task_name": "Colocación de cimentación",
+        "start_date": "2024-01-15",
+        "end_date": "2024-02-15",
+        "duration": 30,
+        "actual_duration": 25,
+        "status": "En progreso",
+        "dependencies": []
+      },
+      {
+        "task_id": 2,
+        "task_name": "Estructura metálica",
+        "start_date": "2024-02-16",
+        "end_date": "2024-03-30",
+        "duration": 44,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          1
+        ]
+      },
+      {
+        "task_id": 3,
+        "task_name": "Instalación de ventanas",
+        "start_date": "2024-04-01",
+        "end_date": "2024-04-15",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          2
+        ]
+      },
+      {
+        "task_id": 4,
+        "task_name": "Instalación de puertas",
+        "start_date": "2024-04-16",
+        "end_date": "2024-04-30",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          3
+        ]
+      },
+      {
+        "task_id": 5,
+        "task_name": "Instalación de mobiliario",
+        "start_date": "2024-05-01",
+        "end_date": "2024-05-15",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          4
+        ]
+      },
+      {
+        "task_id": 6,
+        "task_name": "Entrega de proyecto",
+        "start_date": "2024-05-16",
+        "end_date": "2024-05-30",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          5
+        ]
+      },
+      {
+        "task_id": 7,
+        "task_name": "Pruebas de funcionamiento",
+        "start_date": "2024-06-01",
+        "end_date": "2024-06-15",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "project_id": 2,
+    "schedule": [
+      {
+        "task_id": 1,
+        "task_name": "Instalación de paneles solares",
+        "start_date": "2024-03-01",
+        "end_date": "2024-03-30",
+        "duration": 30,
+        "actual_duration": 10,
+        "status": "En progreso",
+        "dependencies": []
+      },
+      {
+        "task_id": 2,
+        "task_name": "Revisión de conexiones eléctricas",
+        "start_date": "2024-04-01",
+        "end_date": "2024-04-15",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          1
+        ]
+      },
+      {
+        "task_id": 3,
+        "task_name": "Pruebas de funcionamiento",
+        "start_date": "2024-04-16",
+        "end_date": "2024-04-30",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          2
+        ]
+      },
+      {
+        "task_id": 4,
+        "task_name": "Entrega de proyecto",
+        "start_date": "2024-05-01",
+        "end_date": "2024-05-15",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          3
+        ]
+      },
+      {
+        "task_id": 5,
+        "task_name": "Entregas a propietarios",
+        "start_date": "2024-05-16",
+        "end_date": "2024-05-30",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          4
+        ]
+      },
+      {
+        "task_id": 6,
+        "task_name": "Acabados",
+        "start_date": "2024-06-01",
+        "end_date": "2024-06-15",
+        "duration": 15,
+        "actual_duration": null,
+        "status": "No iniciado",
+        "dependencies": [
+          5
+        ]
+      }
+    ]
+  }
+]

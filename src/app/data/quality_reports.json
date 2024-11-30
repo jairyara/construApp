@@ -1,0 +1,91 @@
+[
+  {
+    "project_id": 1,
+    "quality_reports": [
+      {
+        "report_id": 1,
+        "date": "2024-01-20",
+        "inspection_type": "Materiales",
+        "description": "Inspección de calidad del concreto",
+        "non_conformities": [
+          {
+            "issue": "Resistencia por debajo de lo especificado",
+            "corrective_action": "Cambio de proveedor",
+            "status": "Resuelto"
+          }
+        ],
+        "photos": [
+          "/casa.webp",
+          "/obra.webp"
+        ]
+      },
+      {
+        "report_id": 2,
+        "date": "2024-02-10",
+        "inspection_type": "Procedimientos",
+        "description": "Revisión de procedimientos de soldadura",
+        "non_conformities": [],
+        "photos": []
+      },
+      {
+        "report_id": 3,
+        "date": "2024-03-05",
+        "inspection_type": "Instalaciones",
+        "description": "Inspección de instalaciones eléctricas",
+        "non_conformities": [
+          {
+            "issue": "Cableado incorrecto",
+            "corrective_action": "Revisión y corrección",
+            "status": "Pendiente"
+          }
+        ],
+        "photos": [
+          "/casa.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "project_id": 2,
+    "quality_reports": [
+      {
+        "report_id": 4,
+        "date": "2024-01-25",
+        "inspection_type": "Materiales",
+        "description": "Inspección de calidad de acero",
+        "non_conformities": [
+          {
+            "issue": "Material no cumple con especificaciones",
+            "corrective_action": "Devolución al proveedor",
+            "status": "Resuelto"
+          }
+        ],
+        "photos": [
+          "/casa.webp"
+        ]
+      },
+      {
+        "report_id": 5,
+        "date": "2024-02-15",
+        "inspection_type": "Procedimientos",
+        "description": "Revisión de procedimientos de pintura",
+        "non_conformities": [],
+        "photos": []
+      },
+      {
+        "report_id": 2,
+        "date": "2024-03-10",
+        "inspection_type": "Procedimientos",
+        "description": "Revisión de instalación de paneles solares",
+        "non_conformities": [
+          {
+            "issue": "Paneles mal alineados",
+            "corrective_action": "Reinstalación de paneles",
+            "status": "Pendiente"
+          }
+        ],
+        "photos": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "project_id": 1,
+    "finish_reports": [
+      {
+        "area": "Piso 1",
+        "casa": false,
+        "pending_tasks": [
+          "Pintura",
+          "Colocación de baldosas"
+        ],
+        "responsible": "Luis Gómez",
+        "overall_status": "En proceso",
+        "overall_casa": 50,
+        "non_conformities": [
+          {
+            "issue": "Pintura descascarada",
+            "corrective_action": "Lijar y pintar",
+            "status": "Pendiente"
+          }
+        ],
+        "photos": [
+          "casa.webp",
+          "casa.webp"
+        ]
+      },
+      {
+        "area": "Piso 2",
+        "casa": true,
+        "pending_tasks": [],
+        "responsible": "Luis Gómez",
+        "overall_status": "Finalizado",
+        "overall_casa": 100,
+        "non_conformities": [],
+        "photos": [
+          "casa.webp"
+        ]
+      },
+      {
+        "area": "Piso 3",
+        "casa": false,
+        "pending_tasks": [
+          "Pintura",
+          "Colocación de baldosas"
+        ],
+        "responsible": "Luis Gómez",
+        "overall_status": "En proceso",
+        "overall_casa": 40,
+        "non_conformities": [],
+        "photos": [
+          "casa.webp",
+          "casa.webp"
+        ]
+      },
+      {
+        "area": "Piso 4",
+        "casa": true,
+        "pending_tasks": [],
+        "responsible": "Luis Gómez",
+        "overall_status": "No iniciado",
+        "overall_casa": 0,
+        "non_conformities": [],
+        "photos": [
+          "casa.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "project_id": 2,
+    "finish_reports": [
+      {
+        "area": "Fachada",
+        "casa": true,
+        "pending_tasks": [],
+        "responsible": "Ana Gómez",
+        "overall_status": "En proceso",
+        "overall_casa": 80,
+        "non_conformities": [],
+        "photos": [
+          "casa.webp"
+        ]
+      },
+      {
+        "area": "Zonas comunes",
+        "casa": true,
+        "pending_tasks": [],
+        "responsible": "Ana Gómez",
+        "overall_status": "Finalizado",
+        "overall_casa": 100,
+        "non_conformities": [],
+        "photos": [
+          "casa.webp"
+        ]
+      },
+      {
+        "area": "Apartamento 101",
+        "casa": true,
+        "pending_tasks": [],
+        "responsible": "Ana Gómez",
+        "overall_status": "Finalizado",
+        "overall_casa": 100,
+        "non_conformities": [],
+        "photos": [
+          "casa.webp"
+        ]
+      },
+      {
+        "area": "Apartamento 502",
+        "casa": true,
+        "pending_tasks": [],
+        "responsible": "Ana Gómez",
+        "overall_status": "No iniciado",
+        "overall_casa": 0,
+        "non_conformities": [],
+        "photos": [
+          "casa.webp"
+        ]
+      }
+    ]
+  }
+]

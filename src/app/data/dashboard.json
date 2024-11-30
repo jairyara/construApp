@@ -1,0 +1,84 @@
+[
+  {
+    "project_id": 1,
+    "overall_progress": 44.25,
+    "overall_vs_last_month": 5,
+    "budget_usage": {
+      "planned": 200000000000,
+      "actual": 88500000000,
+      "this_month": 7500000000
+    },
+    "pending_tasks": 12,
+    "quality_issues": 1,
+    "next_milestones": [
+      {
+        "task": "Estructura metálica",
+        "due_date": "2024-12-30",
+        "status": "En progreso",
+        "is_critical": true
+      },
+      {
+        "task": "Instalación de tuberías",
+        "due_date": "2024-12-15",
+        "status": "En progreso",
+        "is_critical": false
+      },
+      {
+        "task": "Instalación de ventanas",
+        "due_date": "2024-12-30",
+        "status": "Atrasado",
+        "is_critical": false
+      },
+      {
+        "task": "Instalación de pisos",
+        "due_date": "2024-12-15",
+        "status": "Sin iniciar",
+        "is_critical": false
+      }
+    ]
+  },
+  {
+    "project_id": 2,
+    "overall_progress": 48.28,
+    "overall_vs_last_month": 8,
+    "budget_usage": {
+      "planned": 145000000000,
+      "actual": 70000000000,
+      "this_month": 8000000000
+    },
+    "pending_tasks": 8,
+    "quality_issues": 1,
+    "next_milestones": [
+      {
+        "task": "Revisión de conexiones eléctricas",
+        "due_date": "2024-12-15",
+        "status": "En progreso",
+        "is_critical": true
+      },
+      {
+        "task": "Instalación de ventanas",
+        "due_date": "2024-12-30",
+        "status": "En progreso",
+        "is_critical": false
+      },
+      {
+        "task": "Instalación de pisos",
+        "due_date": "2024-12-15",
+        "status": "Sin iniciar",
+        "is_critical": false
+      },
+      {
+        "task": "Instalación de puertas",
+        "due_date": "2024-12-30",
+        "status": "Atrasado",
+        "is_critical": false
+      },
+        {
+            "task": "Instalación de muebles",
+            "due_date": "2024-12-30",
+            "status": "Sin iniciar",
+            "is_critical": false
+        }
+    ]
+  }
+]

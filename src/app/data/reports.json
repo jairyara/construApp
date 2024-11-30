@@ -1,0 +1,417 @@
+[
+  {
+    "project_id": 1,
+    "reports": [
+      {
+        "month": [
+          {
+            "month": "Enero",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 1",
+              "Informe semanal 2",
+              "Informe semanal 3",
+              "Informe semanal 4",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Febrero",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 5",
+              "Informe semanal 6",
+              "Informe semanal 7",
+              "Informe semanal 8",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Marzo",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 9",
+              "Informe semanal 10",
+              "Informe semanal 11",
+              "Informe semanal 12",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Abril",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 13",
+              "Informe semanal 14",
+              "Informe semanal 15",
+              "Informe semanal 16",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Mayo",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 17",
+              "Informe semanal 18",
+              "Informe semanal 19",
+              "Informe semanal 20",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Junio",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 21",
+              "Informe semanal 22",
+              "Informe semanal 23",
+              "Informe semanal 24",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Julio",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 25",
+              "Informe semanal 26",
+              "Informe semanal 27",
+              "Informe semanal 28",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Agosto",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 29",
+              "Informe semanal 30",
+              "Informe semanal 31",
+              "Informe semanal 32",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Septiembre",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 33",
+              "Informe semanal 34",
+              "Informe semanal 35",
+              "Informe semanal 36",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Octubre",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 37",
+              "Informe semanal 38",
+              "Informe semanal 39",
+              "Informe semanal 40",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Noviembre",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 41",
+              "Informe semanal 42",
+              "Informe semanal 43",
+              "Informe semanal 44",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "project_id": 2,
+    "reports": [
+      {
+        "month": [
+          {
+            "month": "Enero",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 1",
+              "Informe semanal 2",
+              "Informe semanal 3",
+              "Informe semanal 4",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Febrero",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 5",
+              "Informe semanal 6",
+              "Informe semanal 7",
+              "Informe semanal 8",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Marzo",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 9",
+              "Informe semanal 10",
+              "Informe semanal 11",
+              "Informe semanal 12",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Abril",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 13",
+              "Informe semanal 14",
+              "Informe semanal 15",
+              "Informe semanal 16",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Mayo",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 17",
+              "Informe semanal 18",
+              "Informe semanal 19",
+              "Informe semanal 20",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Junio",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 21",
+              "Informe semanal 22",
+              "Informe semanal 23",
+              "Informe semanal 24",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Julio",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 25",
+              "Informe semanal 26",
+              "Informe semanal 27",
+              "Informe semanal 28",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Agosto",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 29",
+              "Informe semanal 30",
+              "Informe semanal 31",
+              "Informe semanal 32",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Septiembre",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 33",
+              "Informe semanal 34",
+              "Informe semanal 35",
+              "Informe semanal 36",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Octubre",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 37",
+              "Informe semanal 38",
+              "Informe semanal 39",
+              "Informe semanal 40",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          },
+          {
+            "month": "Noviembre",
+            "year": 2024,
+            "total_month_reports": 1,
+            "total_week_reports": 4,
+            "total_reports": 5,
+            "files": [
+              "Informe semanal 41",
+              "Informe semanal 42",
+              "Informe semanal 43",
+              "Informe semanal 44",
+              "Informe mensual"
+            ],
+            "format_files": [
+              "pdf",
+              "excel"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
